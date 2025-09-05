@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anatoly
 
-I'm a developer with a Bachelor's in **Applied Computer Science**, passionate about building **web apps** and **desktop applications** that are not only functional, but thoughtfully designed — especially when it comes to the **database layer**. I believe great software starts with solid architecture and clean, maintainable code.
+I'm a software engineer with a Bachelor's in **Applied Computer Science**, passionate about building **web apps** and **desktop applications** that are not only functional, but thoughtfully designed — especially when it comes to the **database layer**. I believe great software starts with solid architecture and clean, maintainable code.
 
 ## 🧰 Tech Stack
 - **Languages**: C# · Python · JavaScript · TypeScript  
