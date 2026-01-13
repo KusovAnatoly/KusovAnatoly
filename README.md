@@ -2,7 +2,7 @@
 
 My name is Anatoly and I'm a software developer.
 
-I work on native Windows applications and services. 
+I work on native Windows applications and services. Prior to my current work I used to teach IT in a community college in vocational training programs.
 
 I love building systems that are not only functional but thoughtfully architected—especially when it comes to the accessibility. I believe great software begins with the thought about the user.
 
