@@ -13,9 +13,9 @@ I love building systems that are not only functional but thoughtfully architecte
 
 ## What Drives Me
 
-- Designing efficient, scalable data schemas  
-- Turning ideas into production-ready full-stack solutions  
-- Enhancing desktop UI/UX with thoughtful design  
+- Designing apps with an intuitive UX and a great looking UI  
+- Providing users with the accessible ways of using my apps  
+- Enhancing user experience of my products  
 - Continuously expanding my development toolkit and best practices
 
 ## Currently Exploring
